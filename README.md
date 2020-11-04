@@ -1,6 +1,5 @@
-# git Projet-Thomas You shall not pass
-pour le projet nsa
-!!!!!!!!!!!!!
+# You shall not pass
+
 
 # 02/11/2021
 lecture du sujet et reflexion avec Yanis
@@ -15,3 +14,10 @@ https://www.gabsoftware.com/tutorials/tutorial-how-to-install-openbsd-6-1-step-b
 installation de la VM freeBSD sans interface graphique
 https://linuxhint.com/install_freebsd_virtualbox/
 
+# 04/11/2020
+installation du serveur web avec nginx.
+On accede bien aux site que j'ai crée sur l'adrees ip de la vm server
+
+utilisation de la doc suivante
+
+https://www.cyberciti.biz/faq/freebsd-install-nginx-webserver/
