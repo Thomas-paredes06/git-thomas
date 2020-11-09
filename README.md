@@ -21,3 +21,6 @@ On accede bien aux site que j'ai crée sur l'adrees ip de la vm server
 utilisation de la doc suivante
 
 https://www.cyberciti.biz/faq/freebsd-install-nginx-webserver/
+
+# 09/11/2020
+https://www.cyberciti.biz/faq/freebsd-install-php-7-2-with-fpm-for-nginx/
