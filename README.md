@@ -24,3 +24,14 @@ https://www.cyberciti.biz/faq/freebsd-install-nginx-webserver/
 
 # 09/11/2020
 https://www.cyberciti.biz/faq/freebsd-install-php-7-2-with-fpm-for-nginx/
+
+# 10/11/2020
+install de toute la vm 2
+
+# 11/11/2020
+Fusion avec dhcp de yanis erreur niveau de l'utilisateur mysql
+
+# 12/11/2020
+OpenBSD PF - User's Guide
+https://www.openbsd.org/faq/pf/
+
